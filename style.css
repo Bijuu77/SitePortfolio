@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+nav ul li{
+    display: inline;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: cadetblue;
+}
+.Mysection{
+color: black;
+background-color: gray;
+padding: 5em;
+}
+.Titre{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+nav{
+    text-align: center;
+}
